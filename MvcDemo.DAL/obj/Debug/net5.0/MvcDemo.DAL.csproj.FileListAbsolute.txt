@@ -1,0 +1,12 @@
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\bin\Debug\net5.0\MvcDemo.DAL.deps.json
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\bin\Debug\net5.0\MvcDemo.DAL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\bin\Debug\net5.0\MvcDemo.DAL.pdb
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.csproj.AssemblyReference.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.AssemblyInfoInputs.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.AssemblyInfo.cs
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\refint\MvcDemo.DAL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\MvcDemo.DAL.pdb
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.DAL\obj\Debug\net5.0\ref\MvcDemo.DAL.dll

@@ -1,0 +1,15 @@
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\bin\Debug\net5.0\MvcDemo.BLL.deps.json
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\bin\Debug\net5.0\MvcDemo.BLL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\bin\Debug\net5.0\MvcDemo.BLL.pdb
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\bin\Debug\net5.0\MvcDemo.DAL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\bin\Debug\net5.0\MvcDemo.DAL.pdb
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.csproj.AssemblyReference.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.AssemblyInfoInputs.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.AssemblyInfo.cs
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.csproj.CopyComplete
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\refint\MvcDemo.BLL.dll
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\MvcDemo.BLL.pdb
+C:\Users\forla\OneDrive\Desktop\Asp Core MVC Assignments\Assignment 02 -\MvcDemo.BLL\obj\Debug\net5.0\ref\MvcDemo.BLL.dll

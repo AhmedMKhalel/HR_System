@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcDemo.BLL",
+    "\\MvcDemo.BLL\\Repositories",
+    "\\MvcDemo.DAL",
+    "\\MvcDemo.PL",
+    "\\MvcDemo.PL\\Controllers",
+    "\\MvcDemo.PL\\Views",
+    "\\MvcDemo.PL\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcDemo.PL\\Controllers\\DepartmentController.cs",
+  "PreviewInSolutionExplorer": false
+}
